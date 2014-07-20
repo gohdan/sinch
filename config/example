@@ -1,0 +1,6 @@
+SITE=example
+HOST=ftp.example.org
+USER=example
+PASS=example
+RDIR=www
+EXCL=logs/
