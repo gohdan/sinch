@@ -46,7 +46,7 @@ for i in `ls $CONF_PATH`; do
 
 					# end: FTP block
 
-					diff -bqr $MASTER_PATH $CURRENT_PATH
+					diff -bqr $CURRENT_PATH $MASTER_PATH
 
 					echo ''
 
